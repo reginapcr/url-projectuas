@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "judul": "Sup Brokoli Wortel",
+      "bahan": "Brokoli, Wortel, Bawang putih, Kaldu sayur",
+      "image": "/img/sup.jpeg"
+    },
+    {
+      "id": 2,
+      "judul": "Tumis Kangkung",
+      "bahan": "Kangkung, Bawang merah, Cabai, Terasi",
+      "image": "/img/tumiskangkung.jpeg"
+    },
+    {
+      "id": 3,
+      "judul": "Selada Segar dengan Timun",
+      "bahan": "Selada, Timun, Lemon, Minyak Zaitun",
+      "image": "/img/seladaTimun.jpeg"
+    }
+  ]
+  

@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "judul": "Manfaat Bayam untuk Kesehatan",
+      "isi": "Bayam kaya akan zat besi, membantu pembentukan sel darah merah dan menjaga daya tahan tubuh.",
+      "image": "/img/bayam.jpeg"
+    },
+    {
+      "id": 2,
+      "judul": "Mengapa Sayuran Harus Ada di Menu Harian",
+      "isi": "Sayuran menyediakan serat, vitamin, dan antioksidan yang menjaga sistem pencernaan dan kekebalan tubuh.",
+      "image": "/img/sayuran.jpg"
+    }
+  ]
+  
