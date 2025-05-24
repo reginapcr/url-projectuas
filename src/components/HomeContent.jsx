@@ -1,7 +1,7 @@
 import React from 'react';
 
 const categories = [
-  { name: 'Brokoli', image: '/img/foto4.jpg' },
+  { name: 'Brokoli Hijau', image: '/img/foto4.jpg' },
   { name: 'Wortel', image: '/img/foto5.jpg' },
   { name: 'Bayam', image: '/img/foto6.jpg' },
   { name: 'Tomat', image: '/img/foto7.jpg' },
