@@ -12,7 +12,7 @@ const categories = [
 const HomeContent = () => {
   return (
     <section className="p-8 text-center bg-white">
-      <h2 className="text-3xl font-bold mb-10 text-green-800">CATEGORY</h2>
+      <h2 className="text-3xl font-bold mb-10 text-green-800">KATEGORI SAYURAN</h2>
       <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-6">
         {categories.map((cat) => (
           <div
