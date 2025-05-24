@@ -13,7 +13,7 @@ const Herosection = () => {
             We provide curated, nutrient-rich products for your healthy lifestyle.
           </p>
           <button className="bg-white text-green-700 px-8 py-3 rounded-full font-semibold mb-6 hover:bg-green-100 transition-all duration-300 transform hover:scale-110 shadow-xl">
-            Pilihan laiannya
+            Pilihan lainnya
           </button>
         </div>
       </div>
