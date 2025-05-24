@@ -7,7 +7,7 @@ const Herosection = () => {
       <div className="h-1/2 bg-gradient-to-b from-green-700 to-green-900 flex items-center justify-center text-center z-10">
         <div className="px-6 md:max-w-3xl">
           <h1 className="text-4xl md:text-5xl font-extrabold mb-4 leading-tight text-shadow-xl">
-            Sayuran segarr
+            SUPERMARKET FRESH
           </h1>
           <p className="mb-6 text-lg md:text-xl font-light tracking-wide text-shadow-xl">
             We provide curated, nutrient-rich products for your healthy lifestyle.
