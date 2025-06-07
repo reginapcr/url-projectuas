@@ -30,6 +30,7 @@ const ProductPage = React.lazy(() => import("./pages/ProductPage"))
 const Contact = React.lazy(() => import("./pages/Contact"))
 const ResepPage = React.lazy(() => import("./pages/ResepPage"))
 const ArtikelPage = React.lazy(() => import("./pages/ArtikelPage"))
+const ProductDetail = React.lazy(() => import("./pages/ProductDetail"))
 
 function App() {
   return (
@@ -43,6 +44,7 @@ function App() {
             <Route path="/Contact" element={<Contact />} />
             <Route path="/resep-page" element={<ResepPage />} />
             <Route path="/artikel-page" element={<ArtikelPage />} />
+            <Route path="/products/:id" element={<ProductDetail />} /> 
             </Route>
 
           <Route element={<AuthLayout/>}>

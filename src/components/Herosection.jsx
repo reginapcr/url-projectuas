@@ -22,7 +22,7 @@ const Herosection = () => {
       <div
         className="h-1/2 bg-cover bg-center bg-blend-overlay"
         style={{
-          backgroundImage: "url('/img/sup.jpeg')",
+          backgroundImage: "url('/img/sayuran.jpg')",
           backgroundSize: 'cover',
           backgroundPosition: 'center',
         }}
