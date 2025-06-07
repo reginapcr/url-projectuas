@@ -2,7 +2,7 @@ import "./assets/tailwind.css";
 import { Route, Routes } from "react-router-dom";
 import React, { Suspense } from "react";
 import Loading from "./components/Loading";
-import { HiHome } from "react-icons/hi";
+// import { HiHome } from "react-icons/hi";
 
 // import Orders from "./pages/Orders";
 // import NotFound from "./pages/NotFound";
