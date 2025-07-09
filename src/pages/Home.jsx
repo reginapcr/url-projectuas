@@ -13,7 +13,7 @@ const Home = () => {
       <Sidebar />
       <Herosection />
       <HomeContent />
-      <Product />
+      {/* <Product /> */}
       <Footer />
     </div>
   );

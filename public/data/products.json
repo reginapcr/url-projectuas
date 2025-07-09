@@ -1,0 +1,530 @@
+[
+  {
+    "id": "S001",
+    "name": "Beras",
+    "description": "Beras pulen berkualitas, cocok untuk hidangan sehari-hari.",
+    "price": 65000,
+    "image": "/img/beras.jpg",
+    "category": "SEMBAKO"
+  },
+  {
+    "id": "S002",
+    "name": "Minyak Goreng Bimoli 2L",
+    "description": "Minyak goreng berkualitas, jernih dan hemat.",
+    "price": 38000,
+    "image": "/img/minyak.jpg",
+    "category": "SEMBAKO"
+  },
+  {
+    "id": "S003",
+    "name": "Gula Pasir Rose Premium 1kg",
+    "description": "Gula pasir putih bersih, manis alami.",
+    "price": 18000,
+    "image": "/img/gula.jpg",
+    "category": "SEMBAKO"
+  },
+  {
+    "id": "S004",
+    "name": "Tepung Terigu Segitiga Biru 1kg",
+    "description": "Tepung serbaguna untuk berbagai olahan makanan.",
+    "price": 13000,
+    "image": "/img/tepung.jpg",
+    "category": "SEMBAKO"
+  },
+  {
+    "id": "S005",
+    "name": "Telur Ayam Negeri (1kg)",
+    "description": "Telur ayam segar pilihan, sumber protein.",
+    "price": 27000,
+    "image": "/img/telur.jpg",
+    "category": "SEMBAKO"
+  },
+  {
+    "id": "S006",
+    "name": "Garam Dapur Cap Kapal 250gr",
+    "description": "Garam beryodium untuk masakan sehari-hari.",
+    "price": 3000,
+    "image": "/img/garam.jpg",
+    "category": "SEMBAKO"
+  },
+  {
+    "id": "S007",
+    "name": "Kecap Manis Bango 550ml",
+    "description": "Kecap manis pilihan, dari kedelai hitam berkualitas.",
+    "price": 22000,
+    "image": "/img/kecap.jpg",
+    "category": "SEMBAKO"
+  },
+  {
+    "id": "S008",
+    "name": "Mie Instan Indomie Goreng (Pack)",
+    "description": "Mie instan favorit, praktis dan lezat.",
+    "price": 28000,
+    "image": "/img/indomie.jpg",
+    "category": "SEMBAKO"
+  },
+  {
+    "id": "S009",
+    "name": "Sarden ABC Chili 425gr",
+    "description": "Sarden siap saji dengan saus sambal.",
+    "price": 15000,
+    "image": "/img/sarden.jpg",
+    "category": "SEMBAKO"
+  },
+  {
+    "id": "S010",
+    "name": "Kopi Bubuk Lampung 150gr",
+    "description": "Kopi bubuk asli Lampung, aroma kuat dan nikmat.",
+    "price": 10000,
+    "image": "/img/kopibubuk.jpg",
+    "category": "SEMBAKO"
+  },
+  {
+    "id": "S011",
+    "name": "Susu Kental Manis Frisian Flag 370gr",
+    "description": "Susu kental manis untuk berbagai kreasi makanan dan minuman.",
+    "price": 12000,
+    "image": "/img/susu_kental.jpg",
+    "category": "SEMBAKO"
+  },
+  {
+    "id": "S012",
+    "name": "Margarin Blue Band 250gr",
+    "description": "Margarin serbaguna untuk roti atau masakan.",
+    "price": 9000,
+    "image": "/img/margarin.jpg",
+    "category": "SEMBAKO"
+  },
+  {
+    "id": "S014",
+    "name": "Saus Sambal ABC Extra Pedas 335ml",
+    "description": "Saus sambal ekstra pedas, cocok untuk pecinta pedas.",
+    "price": 11000,
+    "image": "/img/saus.jpg",
+    "category": "SEMBAKO"
+  },
+  {
+    "id": "V001",
+    "name": "Brokoli",
+    "description": "Brokoli segar, kaya serat dan vitamin.",
+    "price": 15000,
+    "image": "/img/foto4.jpg",
+    "category": "SAYURAN"
+  },
+  {
+    "id": "V002",
+    "name": "Wortel",
+    "description": "Wortel segar, baik untuk mata.",
+    "price": 18000,
+    "image": "/img/Wortel.jpg",
+    "category": "SAYURAN"
+  },
+  {
+    "id": "V003",
+    "name": "Bayam",
+    "description": "Bayam segar, sumber zat besi.",
+    "price": 12000,
+    "image": "/img/bayam.jpeg",
+    "category": "SAYURAN"
+  },
+  {
+    "id": "V004",
+    "name": "Tomat",
+    "description": "Tomat segar, cocok untuk salad atau masakan.",
+    "price": 10000,
+    "image": "/img/Tomat.jpg",
+    "category": "SAYURAN"
+  },
+  {
+    "id": "V005",
+    "name": "Kembang Kol",
+    "description": "Kembang kol putih bersih, serbaguna untuk masakan.",
+    "price": 13000,
+    "image": "/img/kol.jpg",
+    "category": "SAYURAN"
+  },
+  {
+    "id": "V006",
+    "name": "Sawi Hijau",
+    "description": "Sawi hijau segar, cocok untuk tumisan.",
+    "price": 16000,
+    "image": "/img/sawi.jpg",
+    "category": "SAYURAN"
+  },
+  {
+    "id": "V007",
+    "name": "Timun",
+    "description": "Timun segar, renyah, dan menyegarkan.",
+    "price": 14000,
+    "image": "/img/timun.jpeg",
+    "category": "SAYURAN"
+  },
+  {
+    "id": "V008",
+    "name": "Kentang",
+    "description": "Kentang ukuran sedang, serbaguna untuk berbagai olahan.",
+    "price": 15000,
+    "image": "/img/kentang.jpeg",
+    "category": "SAYURAN"
+  },
+  {
+    "id": "V009",
+    "name": "Jagung Manis",
+    "description": "Jagung manis segar, cocok direbus atau dibakar.",
+    "price": 17000,
+    "image": "/img/jaggung.jpg",
+    "category": "SAYURAN"
+  },
+  {
+    "id": "V010",
+    "name": "Bawang Bombay",
+    "description": "Bawang bombay besar, menambah aroma masakan.",
+    "price": 11000,
+    "image": "/img/bombay.jpg",
+    "category": "SAYURAN"
+  },
+  {
+    "id": "B001",
+    "name": "Apel Fuji",
+    "description": "Apel Fuji segar, manis, dan renyah. Sumber serat dan vitamin C.",
+    "price": 35000,
+    "image": "/img/apel.jpg",
+    "category": "BUAH"
+  },
+  {
+    "id": "B002",
+    "name": "Pisang",
+    "description": "Pisang Cavendish pilihan, kaya kalium dan energi.",
+    "price": 18000,
+    "image": "/img/pisang.jpg",
+    "category": "BUAH"
+  },
+  {
+    "id": "B004",
+    "name": "Jeruk Sunkist",
+    "description": "Jeruk Sunkist segar, kaya vitamin C, cocok untuk jus.",
+    "price": 28000,
+    "image": "/img/jeruk.jpg",
+    "category": "BUAH"
+  },
+  {
+    "id": "B005",
+    "name": "Mangga Harum Manis",
+    "description": "Mangga Harum Manis matang, manis, dan harum.",
+    "price": 32000,
+    "image": "/img/mangga.jpg",
+    "category": "BUAH"
+  },
+  {
+    "id": "B006",
+    "name": "Strawberry Lokal",
+    "description": "Strawberry segar, asam manis, cocok untuk camilan atau dessert.",
+    "price": 25000,
+    "image": "/img/strawbery.jpg",
+    "category": "BUAH"
+  },
+  {
+    "id": "B007",
+    "name": "Pear Century",
+    "description": "Pear Century renyah dan berair, menyegarkan.",
+    "price": 30000,
+    "image": "/img/pear.jpg",
+    "category": "BUAH"
+  },
+  {
+    "id": "B008",
+    "name": "Salak Pondoh",
+    "description": "Salak Pondoh manis dan kesat, khas Indonesia.",
+    "price": 15000,
+    "image": "/img/salak.jpg",
+    "category": "BUAH"
+  },
+  {
+    "id": "B009",
+    "name": "Naga Merah",
+    "description": "Buah naga merah, kaya antioksidan dan baik untuk pencernaan.",
+    "price": 22000,
+    "image": "/img/naga.jpg",
+    "category": "BUAH"
+  },
+  {
+    "id": "B010",
+    "name": "Semangka Merah",
+    "description": "Semangka merah tanpa biji, sangat manis dan segar.",
+    "price": 20000,
+    "image": "/img/semangka.jpg",
+    "category": "BUAH"
+  },
+  {
+    "id": "B011",
+    "name": "Melon Honey Dew",
+    "description": "Melon Honey Dew, daging buah hijau lembut dan manis.",
+    "price": 28000,
+    "image": "/img/melon.jpg",
+    "category": "BUAH"
+  },
+  {
+    "id": "M001",
+    "name": "Air Mineral Aqua 1.5L",
+    "description": "Air mineral murni dalam kemasan botol besar.",
+    "price": 7000,
+    "image": "/img/aqua.jpg",
+    "category": "MINUMAN"
+  },
+  {
+    "id": "M002",
+    "name": "Jus Jeruk Buavita 1L",
+    "description": "Jus jeruk segar tanpa pengawet, kaya vitamin C.",
+    "price": 25000,
+    "image": "/img/buavita.jpg",
+    "category": "MINUMAN"
+  },
+  {
+    "id": "M003",
+    "name": "Teh Kotak STEE 300ml",
+    "description": "Minuman teh melati dalam kemasan kotak.",
+    "price": 4500,
+    "image": "/img/ste.jpg",
+    "category": "MINUMAN"
+  },
+  {
+    "id": "M004",
+    "name": "Susu UHT Ultra Milk Full Cream 1L",
+    "description": "Susu UHT tinggi kalsium dan vitamin.",
+    "price": 19000,
+    "image": "/img/susu.jpg",
+    "category": "MINUMAN"
+  },
+  {
+    "id": "M005",
+    "name": "Kopi Instan Good Day Cappuccino",
+    "description": "Kopi instan rasa cappuccino, praktis untuk dinikmati.",
+    "price": 28000,
+    "image": "/img/kopi.jpg",
+    "category": "MINUMAN"
+  },
+  {
+    "id": "M006",
+    "name": "Minuman Isotonik Pocari Sweat 500ml",
+    "description": "Minuman isotonik untuk mengembalikan cairan tubuh.",
+    "price": 9000,
+    "image": "/img/pocari.jpg",
+    "category": "MINUMAN"
+  },
+  {
+    "id": "M007",
+    "name": "Coca-Cola Kaleng 330ml",
+    "description": "Minuman bersoda klasik, menyegarkan.",
+    "price": 7000,
+    "image": "/img/cocacola.jpg",
+    "category": "MINUMAN"
+  },
+  {
+    "id": "M008",
+    "name": "Teh Botol Sosro Original 250ml",
+    "description": "Minuman teh botol legendaris Indonesia.",
+    "price": 6000,
+    "image": "/img/sosro.jpg",
+    "category": "MINUMAN"
+  },
+  {
+    "id": "M009",
+    "name": "Minuman Yogurt Cimory Drink Plain 250ml",
+    "description": "Yogurt drink sehat dengan rasa plain.",
+    "price": 10000,
+    "image": "/img/cimory.jpg",
+    "category": "MINUMAN"
+  },
+  {
+    "id": "M010",
+    "name": "Sari Kacang Hijau Ultra Jaya 250ml",
+    "description": "Minuman sari kacang hijau, sumber energi.",
+    "price": 6500,
+    "image": "/img/sari.jpg",
+    "category": "MINUMAN"
+  },
+  {
+    "id": "K001",
+    "name": "Shampoo Pantene Anti Ketombe 400ml",
+    "description": "Shampoo dengan formula anti ketombe, rambut bersih dan sehat.",
+    "price": 45000,
+    "image": "/img/shampo.jpg",
+    "category": "KOSMETIK"
+  },
+  {
+    "id": "K002",
+    "name": "Sabun Mandi Cair Lifebuoy Total 10 450ml",
+    "description": "Sabun mandi antibakteri, melindungi dari kuman.",
+    "price": 25000,
+    "image": "/img/sabun.jpg",
+    "category": "KOSMETIK"
+  },
+  {
+    "id": "K003",
+    "name": "Pasta Gigi Pepsodent Pencegah Gigi Berlubang 190gr",
+    "description": "Pasta gigi dengan perlindungan menyeluruh untuk gigi dan gusi.",
+    "price": 15000,
+    "image": "/img/pasta.jpg",
+    "category": "KOSMETIK"
+  },
+  {
+    "id": "K004",
+    "name": "Deodoran Rexona Dry Serum Fresh Sakura",
+    "description": "Deodoran dengan teknologi dry serum untuk ketiak kering dan wangi.",
+    "price": 28000,
+    "image": "/img/deodorant.jpg",
+    "category": "KOSMETIK"
+  },
+  {
+    "id": "K005",
+    "name": "Body Lotion Nivea Extra White 200ml",
+    "description": "Lotion tubuh dengan formula pencerah, melembapkan dan meratakan warna kulit.",
+    "price": 30000,
+    "image": "/img/lotion.jpg",
+    "category": "KOSMETIK"
+  },
+  {
+    "id": "K006",
+    "name": "Pembersih Wajah Garnier Micellar Water 125ml",
+    "description": "Micellar water untuk membersihkan make up dan kotoran tanpa bilas.",
+    "price": 35000,
+    "image": "/img/micellar_water.jpg",
+    "category": "KOSMETIK"
+  },
+  {
+    "id": "K007",
+    "name": "Masker Wajah Wardah Naturals Green Tea",
+    "description": "Masker wajah dengan ekstrak green tea, menyegarkan dan merawat kulit berjerawat.",
+    "price": 20000,
+    "image": "/img/wardah.jpg",
+    "category": "KOSMETIK"
+  },
+  {
+    "id": "K009",
+    "name": "Lipstik Matte Maybelline Superstay Ink Crayon",
+    "description": "Lipstik crayon matte dengan warna intens dan tahan lama.",
+    "price": 90000,
+    "image": "/img/lipstik.jpg",
+    "category": "KOSMETIK"
+  },
+  {
+    "id": "K010",
+    "name": "Eyeliner Spidol Waterproof Viva",
+    "description": "Eyeliner spidol hitam pekat, tahan air dan mudah diaplikasikan.",
+    "price": 25000,
+    "image": "/img/eyliner.jpg",
+    "category": "KOSMETIK"
+  },
+  {
+    "id": "K011",
+    "name": "Foundation L'Oreal Infallible 24H Fresh Wear",
+    "description": "Foundation dengan daya tahan 24 jam, ringan di kulit.",
+    "price": 150000,
+    "image": "/img/fondation.jpg",
+    "category": "KOSMETIK"
+  },
+  {
+    "id": "K013",
+    "name": "Hand Cream Vaseline Healthy White",
+    "description": "Krim tangan yang melembapkan dan mencerahkan kulit tangan.",
+    "price": 18000,
+    "image": "/img/handcream.jpg",
+    "category": "KOSMETIK"
+  },
+  {
+    "id": "K014",
+    "name": "Bedak Padat Pixy Two Way Cake",
+    "description": "Bedak padat dengan coverage yang baik, hasil halus.",
+    "price": 38000,
+    "image": "/img/bedak.jpg",
+    "category": "KOSMETIK"
+  },
+  {
+    "id": "N002",
+    "name": "Biskuit Oreo Original 133gr",
+    "description": "Biskuit cokelat dengan krim vanilla, favorit sepanjang masa.",
+    "price": 9000,
+    "image": "/img/oreo.jpg",
+    "category": "SNACK"
+  },
+  {
+    "id": "N004",
+    "name": "Wafer Nabati Keju 145gr",
+    "description": "Wafer renyah dengan krim keju yang lezat.",
+    "price": 8000,
+    "image": "/img/nabati.jpg",
+    "category": "SNACK"
+  },
+  {
+    "id": "N006",
+    "name": "Kacang Garuda Rosta Bawang",
+    "description": "Kacang panggang rasa bawang, gurih dan renyah.",
+    "price": 12000,
+    "image": "/img/kacang.jpg",
+    "category": "SNACK"
+  },
+  {
+    "id": "N007",
+    "name": "Pocky Stick Chocolate",
+    "description": "Stik biskuit dengan balutan cokelat.",
+    "price": 10000,
+    "image": "/img/pocky.jpg",
+    "category": "SNACK"
+  },
+  {
+    "id": "N008",
+    "name": "Potato Chips Chitato Sapi Panggang",
+    "description": "Keripik kentang dengan bumbu sapi panggang yang kuat.",
+    "price": 11000,
+    "image": "/img/chitato.jpg",
+    "category": "SNACK"
+  },
+  {
+    "id": "N009",
+    "name": "Cheetos Jagung Bakar",
+    "description": "Snack jagung rasa jagung bakar, renyah dan gurih.",
+    "price": 7000,
+    "image": "/img/chetos.jpg",
+    "category": "SNACK"
+  },
+  {
+    "id": "N010",
+    "name": "Taro Net Seaweed",
+    "description": "Snack bentuk jaring dengan rasa rumput laut.",
+    "price": 5000,
+    "image": "/img/taro.jpg",
+    "category": "SNACK"
+  },
+  {
+    "id": "N011",
+    "name": "Chiki Balls Keju",
+    "description": "Bola-bola jagung dengan rasa keju, ringan dan enak.",
+    "price": 6000,
+    "image": "/img/chiki.jpg",
+    "category": "SNACK"
+  },
+  {
+    "id": "N012",
+    "name": "Beng-Beng Max",
+    "description": "Wafer renyah dengan karamel, cokelat, dan sereal.",
+    "price": 3500,
+    "image": "/img/beng-beng.jpg",
+    "category": "SNACK"
+  },
+  {
+    "id": "N013",
+    "name": "Popcorn Caramel Instan",
+    "description": "Popcorn instan rasa karamel, siap dimasak di microwave.",
+    "price": 14000,
+    "image": "/img/popcorn.jpg",
+    "category": "SNACK"
+  },
+  {
+    "id": "N015",
+    "name": "Biskuat Cokelat Energi",
+    "description": "Biskuit cokelat dengan tambahan energi, cocok untuk sarapan ringan.",
+    "price": 7000,
+    "image": "/img/biskuat.jpg",
+    "category": "SNACK"
+  }
+]
